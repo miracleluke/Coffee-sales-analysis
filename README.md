@@ -80,9 +80,8 @@ This page allows users to:
 #  How to Use
 
 1. Download the Tableau workbook (`.twb` or `.twbx`) from this repository  
-- Open it using **Tableau Desktop** or **Tableau Public**
-  
-*Alternatively*, view the dashboard here https://public.tableau.com/views/CoffeeSalesPerformance_17712502774500/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+    - Open it using **Tableau Desktop** or **Tableau Public**
+    -  *Alternatively*, view the dashboard here https://tinyurl.com/yc8zfm4p
 
 2. Navigate between:
    - Overview page
@@ -90,7 +89,7 @@ This page allows users to:
 3. Use filters to explore:
    - Coffee types
    - Sales vs Quantity
-4. Use the info Icon to get more information on the metrics
+4. Use the info icon to get more information on the metrics
 
 
 #  Summary
